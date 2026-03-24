@@ -33,8 +33,8 @@ Estou em constante evolução, aprendendo novas tecnologias e aprimorando meus p
 </p>
 
 <h1>
-  <span style="color:#C8A45B;">Men</span> 
-  <span style="color:#ECE8E1;">Chamber</span>
+  <span color="#C8A45B;">Men</span> 
+  <span color="#ECE8E1">Chamber</span>
 </h1>
 
 <img
