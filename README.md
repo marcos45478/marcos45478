@@ -32,6 +32,11 @@ Estou em constante evolução, aprendendo novas tecnologias e aprimorando meus p
     </a>
 </p>
 
+<div style="background-color:#0F1923; padding:20px; border-radius:10px;">
+  <h1 style="color:#C8A45B;">Men Chamber</h1>
+  <p style="color:#ECE8E1;">Elegância, precisão e estilo.</p>
+</div>
+
 <img
 alt="left"
 title="CSS"
