@@ -40,11 +40,7 @@ Estou em constante evolução, aprendendo novas tecnologias e aprimorando meus p
 <p align="center">
   <img
     src="https://static.wikia.nocookie.net/valorant/images/5/5d/Chamber_Artwork_Full.png/revision/latest/scale-to-width-down/1200?cb=20220810202725"
-    width="300px">
-
-  <img
-    src="https://github.com/user-attachments/assets/2e2a33a2-a620-49c5-a0b7-de686bf25b88"
-    width="300px">
+    width="500px">
 </p>
 ---
 
