@@ -37,18 +37,15 @@ Estou em constante evolução, aprendendo novas tecnologias e aprimorando meus p
   <span color="#ECE8E1">Chamber</span>
 </h1>
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<p align="center">
   <img
-    alt="left"
-    title="CSS"
-    width="400px"
-    src="https://static.wikia.nocookie.net/valorant/images/5/5d/Chamber_Artwork_Full.png/revision/latest/scale-to-width-down/1200?cb=20220810202725">
+    src="https://static.wikia.nocookie.net/valorant/images/5/5d/Chamber_Artwork_Full.png/revision/latest/scale-to-width-down/1200?cb=20220810202725"
+    width="300px">
 
   <img
-    alt="gif"
-    width="300px"
-    src="https://github.com/user-attachments/assets/2e2a33a2-a620-49c5-a0b7-de686bf25b88">
-</div>
+    src="https://github.com/user-attachments/assets/2e2a33a2-a620-49c5-a0b7-de686bf25b88"
+    width="300px">
+</p>
 ---
 
 ## 🤖 Liguagens e Tecnilogias
